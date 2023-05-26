@@ -61,10 +61,6 @@
 <a href="https://developer.chrome.com/docs/devtools/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" alt="Chrome DevTools" height="50" /></a>
 <a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="Postman" height="50" /></a>
 
-
-<a href="https://developer.chrome.com/docs/devtools/" target="_blank"><img style="margin: 10px" src="https://cdn.icon-icons.com/icons2/2552/PNG/512/chrome_dev_browser_logo_icon_153006.png" alt="Chrome DevTools" height="50" /></a>
-<a href="https://www.postman.com/" target="_blank"><img style="margin: 10px" src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/postman-icon.png" alt="Postman" height="50" /></a>
-
 </div>
 
 <br/>
